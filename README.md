@@ -1,0 +1,1 @@
+# install-mcm-on-openshift
